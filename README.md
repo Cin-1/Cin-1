@@ -11,7 +11,7 @@ Here's a few little proyects developvent by me to practice my skills:
 SCRUM team work - Final proyect at SoyHenry
 
 
-* [Henryapp](https://github.com/miguehernaandez/Henryapp): It is an application developed using React, MaterialUI, Apollo Client and Graphql in the frontend and MongoDB, Mongoose and Apollo Server in the back end. This app was developing by an instance of SoyHenry bootcamp, it is intended to be used in the future by SoyHenry.
+* [Henryapp](https://github.com/miguehernaandez/Henryapp): It is an application developed using React, MaterialUI, Apollo Client and Graphql in the frontend and MongoDB, Mongoose and Apollo Server in the back end. This app was developed in an instance of SoyHenry bootcamp, it is intended to be used by the future studens in SoyHenry.
 
 * [React/Redux](https://github.com/Cin-1/ReactRedux)
 
