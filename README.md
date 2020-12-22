@@ -3,7 +3,8 @@
 
 
 Hello! My name is Cinthia and I'm student of Web Development.
-Here's a few little proyects developvent by me for practice my skills:
+
+Here's a few little proyects developvent by me to practice my skills:
 
 
 * [E-commerce](https://github.com/BryanCPineda/Ecommerce-ft05-Group3):
