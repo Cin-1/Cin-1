@@ -14,11 +14,11 @@ SCRUM team work - Final proyect at SoyHenry
 
 * [React/Redux](https://github.com/Cin-1/ReactRedux)
 
-* [Cryptomonedas](https://github.com/Cin-1/Cryptos)
+* [Cryptomonedas](https://github.com/Cin-1/Cryptos) [Link](https://sleepy-jennings-937023.netlify.app/)
 
-* [BuscadorBebidas](https://github.com/Cin-1/BuscadorBebidas)
+* [BuscadorBebidas](https://github.com/Cin-1/BuscadorBebidas) [Link](https://jolly-noether-89d7a0.netlify.app/)
 
-* [BuscadorImágenes](https://github.com/Cin-1/BuscadorImagenes)
+* [BuscadorImágenes](https://github.com/Cin-1/BuscadorImagenes) [Link](https://lucid-mcnulty-9492dc.netlify.app/)
 
 My main technical knowledge are:
 - HTML
