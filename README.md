@@ -12,20 +12,20 @@ SCRUM team work - Final proyect at SoyHenry
 
 * [Henryapp](https://github.com/miguehernaandez/Henryapp): It is an application developed using React, MaterialUI, Apollo Client and Graphql in the frontend and MongoDB, Mongoose and Apollo Server in the back end. This app was developing by an instance of SoyHenry bootcamp, it is intended to be used in the future by SoyHenry.
 
-*[React/Redux](https://github.com/Cin-1/ReactRedux)
+* [React/Redux](https://github.com/Cin-1/ReactRedux)
 
-*[Cryptomonedas](https://github.com/Cin-1/Cryptos)
+* [Cryptomonedas](https://github.com/Cin-1/Cryptos)
 
-*[BuscadorBebidas](https://github.com/Cin-1/BuscadorBebidas)
+* [BuscadorBebidas](https://github.com/Cin-1/BuscadorBebidas)
 
-*[BuscadorImágenes](https://github.com/Cin-1/BuscadorImagenes)
+* [BuscadorImágenes](https://github.com/Cin-1/BuscadorImagenes)
 
 My main technical knowledge are:
 - HTML
 - CSS
 - Bootstrap
 - Javascript Vainilla
--Material Ui
+- Material Ui
 - React.js
 - Next.js
 - Firebase
