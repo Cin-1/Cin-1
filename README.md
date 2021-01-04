@@ -6,7 +6,7 @@ Hello! My name is Cinthia and I'm student of Web Development.
 
 These are some projects that I have developed to practice my skills:
 
-* [E-commerce](https://github.com/BryanCPineda/Ecommerce-ft05-Group3):
+* [E-commerce](https://github.com/Cin-1/Ecommerce-ft05-Group3):
 SCRUM team work - Final proyect at SoyHenry
 
 
