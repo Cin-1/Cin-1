@@ -8,4 +8,5 @@ Hello! My name is Cinthia and I'm Software Developer.
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cin-1&theme=radical&include_all_commits=true&show_icons=true" />
+  
 </p>
